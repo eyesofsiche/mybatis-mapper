@@ -1,6 +1,6 @@
 {
   "name": "@eyesofsiche/mybatis-mapper",
-  "version": "0.8.0-fork.1",
+  "version": "0.8.0-fork.2",
   "description": "Maintained fork of mybatis-mapper. Generates SQL from MyBatis3 Mapper XML in Node.js. Supports Dynamic SQL.",
   "author": {
     "name": "Kim KyoungDong",

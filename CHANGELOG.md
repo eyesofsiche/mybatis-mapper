@@ -2,11 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+# 0.8.0-fork.2
+
+- Add support for referencing &lt;include&gt; from other mapper files
+
 # 0.8.0-fork.1
 
 - Fix SQL escaping issue when values contain single quotes
 - Fix preserve trailing null conditions inside &lt;where&gt; clause
-- Add support for referencing &lt;include&gt; from other mapper files
 
 # 0.8.0
 
