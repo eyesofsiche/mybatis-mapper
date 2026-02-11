@@ -17,8 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eyesofsiche/mybatis-mapper.git"
+    "url": "git+https://github.com/eyesofsiche/mybatis-mapper.git"
   },
+  "bugs": {
+    "url": "https://github.com/eyesofsiche/mybatis-mapper/issues"
+  },
+  "homepage": "https://github.com/eyesofsiche/mybatis-mapper#readme",
   "main": "index.js",
   "keywords": [
     "node.js",
